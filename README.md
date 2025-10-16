@@ -10,11 +10,11 @@ install.packages("devtools")
 
 # Install from GitHub
 devtools::install_github("gchen4422/MAFPC")
-```
+
 
 # Load the package
 library(MAFPC)
-
+```
 ## Core function
 
 ### `mafpc_core()`
