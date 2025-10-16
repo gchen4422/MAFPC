@@ -10,6 +10,7 @@ install.packages("devtools")
 
 # Install from GitHub
 devtools::install_github("gchen4422/MAFPC")
+```
 
 # Load the package
 library(MAFPC)
@@ -35,7 +36,7 @@ mafpc_core <- function(
   annot_method = NULL,     # e.g., "mlk" for sparsePCA, "glm", or NULL
   est_annot_prior = "fixed"
 )
-
+```
 
 #### Arguments
 
