@@ -71,7 +71,7 @@ mafpc_core <- function(
   Internal correlation/LD-consistency handling (defaults `"min.abs.corr"` and `0.5`).
 
 - **`annot`**  
-  Optional annotation matrix/data.frame (SNP × features), rows aligned to SNP order.
+  Annotation matrix/data.frame (SNP × features), rows aligned to SNP order.
 
 - **`annot_method`**  
   How to use annotations (e.g., `"mlk"` for sparse PCA, `"glm"`, or `NULL`).
