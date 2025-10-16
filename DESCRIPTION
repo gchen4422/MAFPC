@@ -1,0 +1,13 @@
+Encoding: UTF-8
+Package: mesusiehelpers
+Type: Package
+Title: Concise Summary of What the Package Does
+Version: 0.0.1
+Date: 2025-09-30
+Authors@R: person("Your", "Name", role = c("aut", "cre"), email =
+        "your@email.com")
+Description: More about what it does (maybe more than one line).
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.1.0)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.3.3
