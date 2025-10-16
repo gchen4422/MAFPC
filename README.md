@@ -1,6 +1,6 @@
 # MAFPC
 
-Multi-Ancestry Fine-Mapping with functional Principal Components:joint fine-mapping across ancestries with functional annotations. *Preliminary R package.*
+Multi-Ancestry Fine-Mapping with functional Principal Components: joint fine-mapping across ancestries with functional annotations. *Preliminary R package.*
 
 ## Installation
 
