@@ -32,7 +32,7 @@ mafpc_core <- function(
   max_iter = 100,
   cor_method = "min.abs.corr",
   cor_threshold = 0.5,
-  annot = NULL,            # optional SNP x feature matrix/data.frame aligned to SNP order
+  annot = NULL,            # SNP x feature matrix/data.frame aligned to SNP order
   annot_method = NULL,     # e.g., "mlk" for sparsePCA, "glm", or NULL
   est_annot_prior = "fixed"
 )
